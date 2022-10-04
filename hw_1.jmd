@@ -84,6 +84,10 @@ scatter(concentrations, costs, xlabel="Concentration (kg/day)", ylabel="Cost (do
 ```
 
 ## Problem 1.5
+```julia
+# a sample way to subset
+#concentrations[concentrations <= 20]
+```
 
 ## Problem 1.6
 
